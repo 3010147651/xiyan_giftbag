@@ -49,6 +49,7 @@ export default {
     position: absolute;
      background-color: #ffffff;
     width: 100%;
+
    
    
 }
